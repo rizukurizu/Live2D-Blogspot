@@ -1,4 +1,6 @@
 # live2d
+
+```
 <div class='waifu'>
         <div class='waifu-tips'/>
         <canvas class='live2d' id='live2d'/>
@@ -12,3 +14,4 @@
             <span class='fui-cross'/>
         </div>
     </div>
+```
