@@ -3,6 +3,7 @@
 Paste Jquery dan jQueryUI CDN di atas /head>
 Apabila sudah ada Abaikan
 ```
+<link href='https://cdn.statically.io/gh/wernayasa/live2d/main/assets/waifu.min.css' rel='stylesheet' type='text/css'/>
 <script crossorigin='anonymous' integrity='sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=' src='https://code.jquery.com/jquery-3.7.0.min.js'/>
 <script crossorigin='anonymous' integrity='sha256-eTyxS0rkjpLEo16uXTS0uVCS4815lc40K2iVpWDvdSY=' src='https://code.jquery.com/ui/1.13.1/jquery-ui.min.js'/>
 ```
