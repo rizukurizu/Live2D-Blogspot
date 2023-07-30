@@ -27,6 +27,7 @@ Paste HTML di atas /body
 Paste di atas /body> <br/>
 Posisi dan ukuran bisa di configurasi lebih lanjut.<br/>
 Bagian waifu-tips.json wajib di ubah karena masih bahasa jepang. Untuk ini wajib pakai Github Sendiri.
+Convert linknya menggunakan: https://statically.io/convert/
 ```
 <script type='text/javascript'>
     /* Konfigurasi */
