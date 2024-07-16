@@ -1,4 +1,4 @@
-Info Terbaru, Script Ini Sudah Ada Bahasa Indonesianya
+Info Terbaru, Script Ini Sudah Ada Bahasa Indonesianya fork from wernayasa/https://emissionhex.blogspot.com/#google_vignette
 
 <div class="waifu" style="right: 30px; transition: all 0.3s ease-in-out 0s; display: none;">
 <div class="waifu-tips" style="width: 272px; height: 82px; top: 0px; font-size: 12px; opacity: 0;">Hello! dari <span style="color:#0099cc;">emissionhex.blogspot.com</span> teman</div>
